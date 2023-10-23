@@ -1,7 +1,9 @@
  
 body {
-    margin: 0;
+    margin-left: 70px;
     line-height: normal;
+    width: 1600px;
+    
 }
 
 .petty-child {
